@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/di3725605-maker/gta6-meme-x-02/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/di3725605-maker/gta6-meme-x-02/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-An HR memo pinned to the break-room cork board: all 2026 sick leave is reclassified as "GTA 6 launch leave". HR waited 13 years too — and is just also playing. The make.fun ghost sits on the board as the office mascot. Posted on X from @alifvpl6 for make.fun's $500 GTA 6 meme bounty.
+A printed HR memo pinned to the break-room cork board: all 2026 sick leave is reclassified as "GTA 6 launch leave". HR has waited 13 years too — and is just also playing. The make.fun ghost sits on the board as the office mascot. Posted on X from @alifvpl6 for make.fun's $500 GTA 6 meme bounty.
 
-The post: https://x.com/alifvpl6/status/<id>
+The post: https://x.com/alifvpl6/status/2123523597826175367
 
 ## Run it
 
